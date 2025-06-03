@@ -13,5 +13,8 @@
 - Then hit `Apply`. You should now see everything set up.
   ![The OBS Scene](./docs/OBS.png)
 - You might need to Add all the audio inputs for the microphones each contestant and the host will have.
+  - Open  Settings and navigate to Audio
+  - Under `Global Audio Devices` select the dropdowns and select each microphone
+  ![The OBS audio settings](./docs/Audio.png)
 - You might also need to set up the capture of the camera so you dont just see a black screen. If you have plugged in the capture card into your computer/laptop with obs then under sources double click the `Video Capture Device` and change the Device to the capture card
   ![Change Video Capture Device input settings](./docs/OBS-Change-Input.png)
